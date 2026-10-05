@@ -45,8 +45,8 @@ Warehouse Autonomous Mobile Robots (AMRs) are typically single-purpose and costl
 | **Total Base BOM** | **~650** |
 
 ## 🔗 Important Links
-* **YouTube Demo Video:** [Link to your video here]
-* **Fusion 3D Model:** [Link to your 3D model here]
+* **YouTube Demo Video:** [Coming Soon]
+* **Fusion 3D Model:** [Coming Soon]
 
 ---
 *Built with ❤️ by Team Astra APCOER for SIH 2026*
